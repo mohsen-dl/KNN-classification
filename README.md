@@ -11,6 +11,9 @@ non-parametric, supervised learning classifier, which uses proximity to
 make classifications or predictions about the grouping of an individual 
 data point. We implemented KNN classifier in this project.
 
+#### Datasets
+A dataset is a collection of raw data which should typically be preprocessed before being used by analytical and mining methods. Data preprocessing is a critical task in the data mining process that involves modifying or removing data before using it to assure or improve performance. For this work, the “Adult Data Set” is selected from UCI Machine Learning Repository to predict whether annual income exceeds $50K. Barry Becker extracted the data from the 1994 Census database. The prediction can be useful to find which indicators and attributes are affecting people’s annual income.
+
 
 ### Getting Started
 ####  Dependencies
